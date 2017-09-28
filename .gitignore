@@ -1,0 +1,6 @@
+build/sbt-launch*.jar
+target/
+.idea/
+lib/
+.idea_modules/
+*.iml
